@@ -115,4 +115,11 @@ def leer_datos_simulados(t: int) -> tuple:
 
 El siguiente diagrama de flujo tiene como objetivo facilitar el planteamiento previo del código en Python, establecido un orden claro de como se ejecutara este mismo.
 
-![imagen](Reto_#1/Diagrama_Flujo/Diagrama_flujo_Reto.png)
+---
+
+<div align="center">
+  
+<img width="677" height="1912" alt="image" src="https://github.com/user-attachments/assets/ae24be6f-9751-4355-8963-86e1619728c3" />
+
+</div>
+
